@@ -8,7 +8,7 @@ document.querySelectorAll("h1")[0].textContent="hello there";
 var firstName= "Xiaorui";
 let x = 9;
 const pi = 3.14;
-x = 18 ;
+x = 128 ;
 let favNumber = 8;
 let a = 2,b = 2;
 let sum = a + b;
